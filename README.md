@@ -18,3 +18,38 @@ FriendFeed是用基于Python的非阻塞框架Tornado（知乎也用了这个框
 Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行环境。 
 Node.js 使用了一个事件驱动、非阻塞式 I/O 的模型，使其轻量又高效。 
 Node.js 的包管理器 npm，是全球最大的开源库生态系统。
+
+什么是 **前端** 和 **后端 **？
+
+什么是 JavaScript ？
+
+浏览器中的 JavaScript 能干什么？
+
+浏览器中的 JavaScript 不能干什么？
+
+浏览器和JavaScript的关系？
+
+HTML + CSS + JavaScript
+
+网页页面，其中包括控件布局，色调，字体，控件响应等等，都属于 前端
+
+
+
+## 什么是后端?
+
+网站的逻辑部分，主要涉及数据库，如PHP、.net、GO、Node.js等
+
+
+
+
+
+### 什么是JavaScript?
+
+一门脚本语言
+
+需嵌入到 HTML 执行
+
+JavaScript语言实际上是两种语言风格的混合产物——（简化的）函数式编程 +（简化的）面向对象编程
+
+
+
